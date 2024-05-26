@@ -1,3 +1,3 @@
 Przesyłki nadzwyzajne: 
 
-Przesyłki długie giętkie
+[Przesyłki długie giętkie](Flexible_pol.md)
